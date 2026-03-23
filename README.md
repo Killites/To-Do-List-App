@@ -22,8 +22,7 @@ A modern and interactive To-Do List application built using HTML, CSS, and JavaS
 - Local Storage
 
 📸 Screenshot
-
-"To-Do App" (todo-app.png)
+![To-Do List Screenshot](todo-app.png)
 
 
 📌 How to Run Locally
